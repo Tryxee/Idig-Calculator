@@ -1,7 +1,11 @@
+# iDig calculator
+
 ⚠️ Ce script est protégé par des droits d’auteur. Toute réutilisation, modification ou distribution sans autorisation est strictement interdite.
 
 🚧 Statut du Projet
 🛑 Projet privé – Réutilisation interdite
+
+
 
 # 📜 Licence & Droits d'Auteur
 
